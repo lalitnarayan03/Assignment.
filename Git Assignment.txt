@@ -1,0 +1,25 @@
+1 How to check if git is available on your system? 
+Ans- Using GIt Bash. 
+
+2 How to initialize a new Git repository? 
+Ans- Using init command. 
+
+3 How to tell git about your name and email? 
+Ans- Using, 
+ git config –golbal user.name  
+ git config --global user.email 
+
+4 How to add a file to the staging area? 
+Ans- Using git add file name
+
+5 How to remove a file to the staging area? 
+Ans- git rm –cached (file name) 
+
+6 How to make a commit? 
+Ans- git commit –m “some massage” 
+
+7 How to send your changes to a remote repository? 
+Ans- Using git push 
+
+8 What is the difference between clone and pull? 
+Ans- Clone It is used to clone the repository to the working directory of the developer Pull is used to fetch the latest changes made in the remote repository to the working directory  
